@@ -3,4 +3,4 @@
 
 LIST
 
-- [DAMA数据管理知识体系指南（原书第2版）.epub](DAMA数据管理知识体系指南/README.md)
+- [DAMA数据管理知识体系指南（原书第2版）.epub](DAMA数据管理知识体系指南)
